@@ -19,7 +19,6 @@ titanic-ml/
 │── requirements.txt # Python dependencies
 │── README.md # Project overview
 
-
 ---
 
 ## 🧠 Key Features
@@ -33,7 +32,7 @@ titanic-ml/
 ## 📈 Results
 | Model                | Accuracy | Notes                        |
 |--------------------|----------|------------------------------|
-| Logistic Regression | 0.79     | Baseline model performance    |
+| Logistic Regression | 0.8045   | Baseline model performance    |
 
 > *Results may vary depending on preprocessing and feature selection.*
 
